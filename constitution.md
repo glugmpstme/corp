@@ -8,7 +8,7 @@ This document is the GLUG Constitution, henceforth _the Constitution.
 
  - organise a minimum of five (5) internal events per semester
  - organise a minimum of three (3) external events per semester
- - out of the external events there must at least be
+ - in a given academic year, out of the external events there must at least be
     - one (1) installfest
     - one (1) Python event
     - one (1) new language
